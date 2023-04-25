@@ -13,6 +13,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Client\Management.Web.WASM.Client.csproj" />
     <ProjectReference Include="..\Shared\Management.Shared.csproj" />
+    <PackageReference Include="MudBlazor" Version="6.2.2" />
+    <PackageReference Include="Radzen.Blazor" Version="4.10.0" />
   </ItemGroup>
 
 
